@@ -1,6 +1,5 @@
 # Anonymous Writer
-[![make with](https://img.shields.io/badge/Make%20With-&#9829;-yellow.svg)](https://opensource.org/licenses/)
-[![API](https://img.shields.io/badge/None-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![make with](https://img.shields.io/badge/Make%20With-&#9829;-blue.svg)](https://opensource.org/licenses/)
 [![Build With](https://img.shields.io/badge/Framework-Laravel%20V.8-red.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![By](https://img.shields.io/badge/By-Adi%20Setiawan-green.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
